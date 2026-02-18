@@ -1,0 +1,788 @@
+(ebay) hritik@hritik-Inspiron-15-5510:~/Desktop/work/ebay$ python get_stores.py 
+Enter eBay store name: ozplaza.living
+
+Scraping page 1...
+Checking revisions for 392114443312...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/392114443312
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Reached older date: 2026-02-01 00:00:00 — stopping
+Checking revisions for 372807213752...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/372807213752
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 392507634834...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/392507634834
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 392055775239...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/392055775239
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 352138343630...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/352138343630
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 392118718361...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/392118718361
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Reached older date: 2026-01-31 00:00:00 — stopping
+Checking revisions for 354369959140...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/354369959140
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 375223080394...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/375223080394
+[LOG] Found 100 revision rows
+[LOG] Reached older date: 2026-01-30 00:00:00 — stopping
+Checking revisions for 372287501609...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/372287501609
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 351125350059...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/351125350059
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 392245239067...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/392245239067
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 373590340649...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/373590340649
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Reached older date: 2026-02-01 00:00:00 — stopping
+Checking revisions for 393935355200...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/393935355200
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-19 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 354295946966...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/354295946966
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Reached older date: 2026-02-01 00:00:00 — stopping
+Checking revisions for 354290832470...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/354290832470
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 394169745523...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/394169745523
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 395513882572...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/395513882572
+[LOG] Found 99 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Reached older date: 2026-01-22 00:00:00 — stopping
+Checking revisions for 354291043912...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/354291043912
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Reached older date: 2026-01-19 00:00:00 — stopping
+Checking revisions for 390591535401...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/390591535401
+[LOG] Found 99 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 394349677538...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/394349677538
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Reached older date: 2026-02-02 00:00:00 — stopping
+Checking revisions for 355450243913...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/355450243913
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Reached older date: 2026-01-27 00:00:00 — stopping
+Checking revisions for 372654771483...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/372654771483
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Reached older date: 2026-01-13 00:00:00 — stopping
+Checking revisions for 374223195031...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/374223195031
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Reached older date: 2026-01-21 00:00:00 — stopping
+Checking revisions for 375100595897...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/375100595897
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Reached older date: 2026-01-22 00:00:00 — stopping
+Checking revisions for 354291276646...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/354291276646
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Reached older date: 2026-02-02 00:00:00 — stopping
+Checking revisions for 393674530577...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/393674530577
+[LOG] Found 98 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 393191802970...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/393191802970
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 352652811168...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/352652811168
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 355174427480...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/355174427480
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 352495199036...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/352495199036
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 370847218528...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/370847218528
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 374342908157...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/374342908157
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-01-13 00:00:00 — stopping
+Checking revisions for 373327166723...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/373327166723
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Reached older date: 2026-01-31 00:00:00 — stopping
+Checking revisions for 352541460390...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/352541460390
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 395466460040...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/395466460040
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 352657320986...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/352657320986
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 354045645989...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/354045645989
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Reached older date: 2026-01-28 00:00:00 — stopping
+Checking revisions for 392495013262...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/392495013262
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-01-26 00:00:00 — stopping
+Checking revisions for 372054670170...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/372054670170
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 350915715203...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/350915715203
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Reached older date: 2026-02-01 00:00:00 — stopping
+Checking revisions for 351887699113...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/351887699113
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 393612135135...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/393612135135
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 395523264592...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/395523264592
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Reached older date: 2026-01-30 00:00:00 — stopping
+Checking revisions for 391801417701...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/391801417701
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Reached older date: 2026-02-02 00:00:00 — stopping
+Checking revisions for 270784774539...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/270784774539
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 353527992755...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/353527992755
+[LOG] Found 99 revision rows
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Reached older date: 2026-01-15 00:00:00 — stopping
+Checking revisions for 374872868561...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/374872868561
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-01-21 00:00:00 — stopping
+Checking revisions for 356077302125...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/356077302125
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Reached older date: 2026-01-27 00:00:00 — stopping
+Checking revisions for 392779296655...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/392779296655
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 352581021584...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/352581021584
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-01-15 00:00:00 — stopping
+Checking revisions for 355599861654...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/355599861654
+[LOG] Found 99 revision rows
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Reached older date: 2026-01-31 00:00:00 — stopping
+Checking revisions for 373124953449...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/373124953449
+[LOG] Found 100 revision rows
+[LOG] Reached older date: 2026-01-30 00:00:00 — stopping
+Checking revisions for 390961418131...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/390961418131
+[LOG] Found 98 revision rows
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Reached older date: 2026-01-30 00:00:00 — stopping
+Checking revisions for 372907250180...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/372907250180
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Reached older date: 2026-01-22 00:00:00 — stopping
+Checking revisions for 352824927098...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/352824927098
+[LOG] Found 99 revision rows
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Reached older date: 2026-01-07 00:00:00 — stopping
+Checking revisions for 394650104018...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/394650104018
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+Checking revisions for 390458788386...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/390458788386
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-19 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-06 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 355675013923...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/355675013923
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 391506745113...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/391506745113
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Reached older date: 2026-02-01 00:00:00 — stopping
+Checking revisions for 351423313298...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/351423313298
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 394805517045...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/394805517045
+[LOG] Found 99 revision rows
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-02-02 00:00:00 — stopping
+Checking revisions for 355443358321...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/355443358321
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-12 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 375392667103...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/375392667103
+[LOG] Found 96 revision rows
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Reached older date: 2026-02-01 00:00:00 — stopping
+Checking revisions for 373106561479...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/373106561479
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Quantity change found on 2026-02-05 00:00:00
+[LOG] Reached older date: 2026-01-22 00:00:00 — stopping
+Checking revisions for 352804655996...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/352804655996
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Reached older date: 2026-01-06 00:00:00 — stopping
+Checking revisions for 375268824495...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/375268824495
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-11 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 373779488623...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/373779488623
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 352528228177...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/352528228177
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 394228710629...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/394228710629
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Reached older date: 2026-01-28 00:00:00 — stopping
+Checking revisions for 374314981926...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/374314981926
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-10 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 392238845932...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/392238845932
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Reached older date: 2026-01-17 00:00:00 — stopping
+Checking revisions for 372019602668...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/372019602668
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Reached older date: 2026-02-02 00:00:00 — stopping
+Checking revisions for 354261883435...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/354261883435
+[LOG] Found 99 revision rows
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Reached older date: 2026-01-13 00:00:00 — stopping
+Checking revisions for 394398706300...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/394398706300
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-13 00:00:00
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-02-02 00:00:00 — stopping
+Checking revisions for 354420978541...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/354420978541
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-09 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-02-01 00:00:00 — stopping
+Checking revisions for 375457636917...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/375457636917
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Reached older date: 2026-01-28 00:00:00 — stopping
+Checking revisions for 353520123938...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/353520123938
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-01-06 00:00:00 — stopping
+Checking revisions for 374872868538...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/374872868538
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-01-13 00:00:00 — stopping
+Checking revisions for 372703535504...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/372703535504
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-18 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-17 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-16 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-15 00:00:00
+[LOG] Quantity change found on 2026-02-14 00:00:00
+[LOG] Quantity change found on 2026-02-08 00:00:00
+[LOG] Reached older date: 2026-01-29 00:00:00 — stopping
+Checking revisions for 374223195046...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/374223195046
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Reached older date: 2026-01-21 00:00:00 — stopping
+Checking revisions for 353131350162...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/353131350162
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Reached older date: 2026-02-03 00:00:00 — stopping
+Checking revisions for 353788419970...
+[LOG] Opening revision page: https://www.ebay.com.au/rvh/353788419970
+[LOG] Found 100 revision rows
+[LOG] Quantity change found on 2026-02-07 00:00:00
+[LOG] Reached older date: 2026-02-04 00:00:00 — stopping
+
+==== ALL ITEMS (Quantity Revisions Last 14 Days) ====
+Item ID         QtyChanges   Price      Title
+----------------------------------------------------------------------------------------------------
+392114443312    13           AU $135.95 Devanti 52'' Ceiling Fan DC Motor 4 Blades LED Light Remote Control Timer White
+372807213752    6            AU $149.95 Devanti 48'' Ceiling Fan DC Motor 3 Blades LED Light Remote Control Timer White
+392507634834    13           AU $86.95  Devanti 600mm Range Hood 60cm Slide out Rangehood Kitchen Canopy Stainless Steel
+392055775239    4            AU $53.95  i.Pet Dog Ramp For Car Pet Dog Stairs Steps Ladder Travel Foldable Portable SUV
+352138343630    16           AU $52.95  Gardeon Animal Trap Humane Cage Possum Fox Koala Rabbit Bird Cat Live Catch
+392118718361    1            AU $71.95  20pcs Alpha Studio Acoustic Foam Sound Absorption Panels Eggshell 50X50X5CM
+354369959140    2            AU $39.95  i.Pet Dog Ramp Steps For Bed Sofa Car Pet Stairs Ladder Indoor Foldable Portable
+375223080394    0            AU $57.95  i.Pet Cat Litter Box Large Kitty Toilet Fully Enclosed House Hooded Scoop Grey
+372287501609    5            AU $79.95  Devanti 58L Motion Sensor Bin Rubbish Automatic Trash Can Kitchen Black
+351125350059    1            AU $85.95  Cefito Twin Pull Out Bin Kitchen Double Dual Slide Garbage Rubbish Basket 2X20L
+392245239067    14           AU $75.95  Giselle Foldable Foam Mattress Portable Folding Camping Bed Mat Double Single
+373590340649    25           AU $69.95  Giselle Goose Down Feather Quilt 500/700/800GSM Duvet Doona Queen Winter Blanket
+393935355200    16           AU $47.95  Giantz Air Hose Reel Retractable 10/20m Auto Rewind Wall Mount Compressor Garage
+354295946966    2            AU $67.95  Instahut Sun Shade Sail Cloth Shadecloth Outdoor Canopy Triangle 280gsm 5x5x5m
+354290832470    3            AU $49.95  Wanderlite 20" Luggage Trolley Travel Set Suitcase Carry On Hard Shell Case Sets
+394169745523    8            AU $119.95 Devanti Air Purifier Purifiers HEPA Filter Home Freshener Carbon Ioniser Cleaner
+395513882572    1            AU $88.95  Weisshorn Portable Ice Bathtub 120x70X70CM Inflatable Cold Water Folding Massage
+354291043912    3            AU $70.95  Wanderlite 28" Luggage Trolley Travel Suitcase Set Carry On Hard Case TSA Lock
+390591535401    3            AU $37.95  Artiss Monitor Arm Desk Mount 32'' Displays Screen Bracket Holder Black
+394349677538    5            AU $46.95  i.Pet Dog Ramp Steps For Bed Sofa Car Pet Stairs Ladder Travel Foldable Portable
+355450243913    1            AU $59.95  Wanderlite 2pc Luggage Trolley Travel Suitcase Storage Carry On TSA Lock 12" 20"
+372654771483    2            AU $86.95  Cefito 2X20L Rubbish Bin Pull Out Bin Kitchen Bins Double Dual Twin Sliding
+374223195031    3            AU $55.95  Artiss Lounge Sofa Bed Floor Recliner Futon Couch Folding Chair Cushion Black
+375100595897    2            AU $33.95  Weisshorn Self Inflating Mattress Camping Sleeping Mat Air Bed Mat Single Double
+354291276646    4            AU $49.95  Wanderlite Suitcases Luggage Set 20" 24" 28"Carry On Trolley TSA Travel Bag
+393674530577    3            AU $67.95  Artiss Round Velvet Ottoman Foot Stool Storage Foot Rest Padded Seat Large
+393191802970    5            AU $59.95  Giselle Faux Mink Quilt Throw Blanket Comforter Queen King S/D/SK Winter Warm
+352652811168    5            AU $129.95 Devanti 52'' Ceiling Fan DC Motor 4 Blades LED Light Remote Control Timer Black
+355174427480    2            AU $59.95  Cefito Kitchen Tap Mixer Taps Sink Basin Faucet Vanity Swivel Brass Spout DIY
+352495199036    8            AU $36.95  Artiss Monitor Arm Dual Desk Mount 32'' Displays Screen Bracket Holder Black
+370847218528    6            AU $44.95  Everfit Aerobic Step Exercise Stepper Steps Home Gym Fitness Block Riser Bench
+374342908157    4            AU $59.95  Weisshorn Tesla Model Y Rubber Mats Carpets Front Rear Set RHD 21-24
+373327166723    5            AU $52.95  Universal Car Roof Racks Pod Aluminium Cross Bars Clamps Lockable 90cm Black
+352541460390    4            AU $99.95  Devanti Bagless Vacuum Cleaner 2200W Multi-cyclonic HEPA Filters Vacuums Black
+395466460040    20           AU $79.95  Everfit Golf Buggy Quick Folding Trolley Golf Cart Trolley 2 Wheels Cup Holder
+352657320986    4            AU $125.95 Devanti 52'' Ceiling Fan DC Motor 4 Blades LED Light Remote Control Timer Silver
+354045645989    3            AU $35.95  Everfit Aerobic Step Exercise Stepper Steps Home Gym Fitness Block Bench Riser
+392495013262    3            AU $55.95  Artiss Clothes Rack Airer Coat Stand 179cm Metal Hanger Rail Closet Hook Shelf
+372054670170    3            AU $83.95  Weisshorn Camping Portable Sink Wash Basin Stand Food Hand 19L Water Capacity
+350915715203    4            AU $73.95  Devanti Commercial Electric Deep Fryer 10L Basket Chip Cooker Stainless Steel
+351887699113    6            AU $51.95  Giantz Window Tint Film Roll 5% VLT Car Home House 100cm X 30m Tinting tools
+393612135135    2            AU $30.95  Artiss Monitor Stand Arm Dual Single LED TV Mount Bracket Holder Freestanding
+395523264592    1            AU $125.95 Everfit Golf Travel Bags for Airlines with Wheels Golf Clubs Hard Case Foldable
+391801417701    1            AU $35.95  Artiss Monitor Arm Stand Single HD LED Display Desk Mount Bracket Screen Holder
+270784774539    2            AU $34.95  Artiss Monitor Stand Arm Dual HD LED TV Freestanding Mount Holder 2 Arm Display
+353527992755    1            AU $61.95  Artiss 80CM Large Wall Clock Roman Numerals Round Metal Luxury Home Decor Black
+374872868561    2            AU $79.95  Devanti 50L Sensor Bin Motion Rubbish Automatic Trash Can Kitchen Silver
+356077302125    1            AU $63.95  Devanti Food Vacuum Sealer Machine Fresh Storage Sealing Cutter Bags 15/28cm 4
+392779296655    2            AU $64.95  Weisshorn Sleeping Bag Bags Double Camping Hiking Tent Thermal Grey -10°C-15°C
+352581021584    3            AU $72.95  Devanti 5 Trays Food Dehydrator Commercial Fruit Dehydrators Beef Jerky Dryer
+355599861654    1            AU $9.95   Everfit Ab Roller Automatic Rebound Abdominal Wheel Home Gym Workout Blue
+373124953449    0            AU $30.95  Artiss Monitor Stand Arm Desk Single HD LED TV Mount Bracket Holder Freestanding
+390961418131    1            AU $78.95  Cefito Pull Out Bin Kitchen Slide Out Rubbish Waste Basket Twin Cabinet 30L 40L
+372907250180    1            AU $37.76  Artiss Freestanding Vacuum Cleaner Stand Cordless Rack for Dyson V6 7 8 10 11 SI
+352824927098    1            AU $52.95  Instahut Gazebo Base Pod Kit Pop Up Marquee Set Outdoor Wedding Tent Canopy Leg
+394650104018    2            AU $46.95  i.Pet Dog Ramp Steps For Bed Sofa Car Pet Stairs Ladder Indoor Portable Foldable
+390458788386    9            AU $92.95  Weisshorn 20L Portable Camping Toilet Outdoor Flush Potty Travel Caravan Boating
+355675013923    1            AU $41.95  Giselle Bedding Mattress Topper Pillowtop Toppers 3-Zone Mat Pad Protector Cover
+391506745113    1            AU $16.95  LockMaster Infrared Photocell Swing Sliding Gate Door Sensor Open Security Beam
+351423313298    1            AU $85.95  Cefito 2X20L Twin Pull Out Bin Slide Kitchen Double Dual Garbage Rubbish Basket
+394805517045    8            AU $31.95  Gardeon Solar Snake Repeller Multi Pulse Plus Ultrasonic Pest Rodent Repellent
+355443358321    4            AU $36.95  Artiss Monitor Arm Stand Dual Mount HD LED TV Bracket Holder Freestanding Black
+375392667103    1            AU $19.95  Devanti 60cm 90cm Range Hood Stainless Steel Rangehood Filters
+373106561479    2            AU $77.95  Giselle Bedding Foldable Mattress Folding Foam Mattresses Sofa Bed Mat Bamboo
+352804655996    1            AU $89.95  Grillz Fire Pit BBQ Grill Smoker Camping Outdoor Portable Stainless Steel Stove
+375268824495    1            AU $119.95 Devanti Air Fryer 8L LCD Fryers Kitchen Oven Oil Free Healthy Cooker 1700W
+373779488623    11           AU $122.95 Devanti Ceiling Fan 52'' Ceiling Fans Remote 8H Timer Wooden Blades 1300mm Home
+352528228177    1            AU $80.95  Cefito Kitchen Sink Basin Stainless Steel Nano Under/Top Flush Mount 340X440MM
+394228710629    1            AU $60.95  i.Pet Pet Carrier Soft Crate Dog Cat Travel Portable Cage Kennel Foldable 2XL
+374314981926    2            AU $24.95  Artiss Velvet Sofa Cover Plush Couch Cover Lounge Slipcover 1/2/3/4 Seater
+392238845932    1            AU $79.95  Devanti 58L Motion Sensor Bin Rubbish Automatic Trash Can Kitchen White
+372019602668    1            AU $52.95  Cefito Bathroom Basin Vanity Sink Ceramic Above Counter Hand Wash Bowl Oval
+354261883435    1            AU $56.95  i.Pet Pet Carrier Soft Crate Dog Cat Travel Portable Cage Kennel Foldable Car XL
+394398706300    3            AU $99.95  Weisshorn Car Rubber Floor Mats Trunk Cargo Mat Compatible for Tesla Model Y
+354420978541    2            AU $69.95  Giselle Bedding Memory Foam Topper 5cm King Mattress Egg Crate Bed Protector
+375457636917    2            AU $69.95  Giantz Digital Electric Fence Tester Fault Finder voltage tester fault 13KV
+353520123938    1            AU $85.95  Devanti 7 Trays Food Dehydrator Commercial Fruit Dehydrators Beef Jerky Dryer
+374872868538    1            AU $79.95  Devanti 50L Sensor Bin Motion Rubbish Automatic Trash Can Kitchen Black
+372703535504    10           AU $119.95 Devanti 52'' Ceiling Fan Fans 1300mm Light Wall Remote Control Fans Kit 4 Blades
+374223195046    1            AU $57.95  Artiss Lounge Sofa Bed Floor Recliner Futon Chaise Folding Couch Chair Grey
+353131350162    1            AU $78.95  Giselle Bedding Foldable Mattress Folding Foam Mattresses Floor Bed Single Grey
+353788419970    1            AU $67.95  Artiss 2x Bar Stools Kitchen Dining Chairs Plastic Puzzle Foot Stool White
+
+==== FILTERED (>= 3 Quantity Changes) ====
+Item ID         QtyChanges   Price      Title
+----------------------------------------------------------------------------------------------------
+392114443312    13           AU $135.95 Devanti 52'' Ceiling Fan DC Motor 4 Blades LED Light Remote Control Timer White
+372807213752    6            AU $149.95 Devanti 48'' Ceiling Fan DC Motor 3 Blades LED Light Remote Control Timer White
+392507634834    13           AU $86.95  Devanti 600mm Range Hood 60cm Slide out Rangehood Kitchen Canopy Stainless Steel
+392055775239    4            AU $53.95  i.Pet Dog Ramp For Car Pet Dog Stairs Steps Ladder Travel Foldable Portable SUV
+352138343630    16           AU $52.95  Gardeon Animal Trap Humane Cage Possum Fox Koala Rabbit Bird Cat Live Catch
+372287501609    5            AU $79.95  Devanti 58L Motion Sensor Bin Rubbish Automatic Trash Can Kitchen Black
+392245239067    14           AU $75.95  Giselle Foldable Foam Mattress Portable Folding Camping Bed Mat Double Single
+373590340649    25           AU $69.95  Giselle Goose Down Feather Quilt 500/700/800GSM Duvet Doona Queen Winter Blanket
+393935355200    16           AU $47.95  Giantz Air Hose Reel Retractable 10/20m Auto Rewind Wall Mount Compressor Garage
+354290832470    3            AU $49.95  Wanderlite 20" Luggage Trolley Travel Set Suitcase Carry On Hard Shell Case Sets
+394169745523    8            AU $119.95 Devanti Air Purifier Purifiers HEPA Filter Home Freshener Carbon Ioniser Cleaner
+354291043912    3            AU $70.95  Wanderlite 28" Luggage Trolley Travel Suitcase Set Carry On Hard Case TSA Lock
+390591535401    3            AU $37.95  Artiss Monitor Arm Desk Mount 32'' Displays Screen Bracket Holder Black
+394349677538    5            AU $46.95  i.Pet Dog Ramp Steps For Bed Sofa Car Pet Stairs Ladder Travel Foldable Portable
+374223195031    3            AU $55.95  Artiss Lounge Sofa Bed Floor Recliner Futon Couch Folding Chair Cushion Black
+354291276646    4            AU $49.95  Wanderlite Suitcases Luggage Set 20" 24" 28"Carry On Trolley TSA Travel Bag
+393674530577    3            AU $67.95  Artiss Round Velvet Ottoman Foot Stool Storage Foot Rest Padded Seat Large
+393191802970    5            AU $59.95  Giselle Faux Mink Quilt Throw Blanket Comforter Queen King S/D/SK Winter Warm
+352652811168    5            AU $129.95 Devanti 52'' Ceiling Fan DC Motor 4 Blades LED Light Remote Control Timer Black
+352495199036    8            AU $36.95  Artiss Monitor Arm Dual Desk Mount 32'' Displays Screen Bracket Holder Black
+370847218528    6            AU $44.95  Everfit Aerobic Step Exercise Stepper Steps Home Gym Fitness Block Riser Bench
+374342908157    4            AU $59.95  Weisshorn Tesla Model Y Rubber Mats Carpets Front Rear Set RHD 21-24
+373327166723    5            AU $52.95  Universal Car Roof Racks Pod Aluminium Cross Bars Clamps Lockable 90cm Black
+352541460390    4            AU $99.95  Devanti Bagless Vacuum Cleaner 2200W Multi-cyclonic HEPA Filters Vacuums Black
+395466460040    20           AU $79.95  Everfit Golf Buggy Quick Folding Trolley Golf Cart Trolley 2 Wheels Cup Holder
+352657320986    4            AU $125.95 Devanti 52'' Ceiling Fan DC Motor 4 Blades LED Light Remote Control Timer Silver
+354045645989    3            AU $35.95  Everfit Aerobic Step Exercise Stepper Steps Home Gym Fitness Block Bench Riser
+392495013262    3            AU $55.95  Artiss Clothes Rack Airer Coat Stand 179cm Metal Hanger Rail Closet Hook Shelf
+372054670170    3            AU $83.95  Weisshorn Camping Portable Sink Wash Basin Stand Food Hand 19L Water Capacity
+350915715203    4            AU $73.95  Devanti Commercial Electric Deep Fryer 10L Basket Chip Cooker Stainless Steel
+351887699113    6            AU $51.95  Giantz Window Tint Film Roll 5% VLT Car Home House 100cm X 30m Tinting tools
+352581021584    3            AU $72.95  Devanti 5 Trays Food Dehydrator Commercial Fruit Dehydrators Beef Jerky Dryer
+390458788386    9            AU $92.95  Weisshorn 20L Portable Camping Toilet Outdoor Flush Potty Travel Caravan Boating
+394805517045    8            AU $31.95  Gardeon Solar Snake Repeller Multi Pulse Plus Ultrasonic Pest Rodent Repellent
+355443358321    4            AU $36.95  Artiss Monitor Arm Stand Dual Mount HD LED TV Bracket Holder Freestanding Black
+373779488623    11           AU $122.95 Devanti Ceiling Fan 52'' Ceiling Fans Remote 8H Timer Wooden Blades 1300mm Home
+394398706300    3            AU $99.95  Weisshorn Car Rubber Floor Mats Trunk Cargo Mat Compatible for Tesla Model Y
+372703535504    10           AU $119.95 Devanti 52'' Ceiling Fan Fans 1300mm Light Wall Remote Control Fans Kit 4 Blades
