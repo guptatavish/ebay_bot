@@ -1,11 +1,13 @@
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
 import time
+import csv
 
 # -------- CONFIG --------
 BASE_URL = "https://www.ebay.com.au"
 DAYS_LIMIT = 14
 MIN_SALES = 3
+MAX_ITEMS = 10          # stop after finding this many items with >= MIN_SALES changes
 HEADLESS = False
 DELAY_BETWEEN_ITEMS = 1.5
 # ------------------------
@@ -49,7 +51,7 @@ def count_quantity_revisions(context, item_id, cutoff_date):
 
         count = 0
 
-        # 🔥 REVERSE rows → newest first
+        # REVERSE rows → newest first
         for row in reversed(rows):
 
             cells = row.query_selector_all("td")
@@ -64,7 +66,7 @@ def count_quantity_revisions(context, item_id, cutoff_date):
             except:
                 continue
 
-            # 🔥 STOP when older than 14 days
+            # STOP when older than 14 days
             if revision_date < cutoff_date:
                 print(f"[LOG] Reached older date: {revision_date} — stopping")
                 break
@@ -81,12 +83,13 @@ def count_quantity_revisions(context, item_id, cutoff_date):
 
     finally:
         rev_page.close()
-
+    
 
 
 def scrape_store(store_name):
     sales_count = {}
     item_details = {}
+    qualified_count = 0
 
     cutoff_date = datetime.now() - timedelta(days=DAYS_LIMIT)
 
@@ -146,6 +149,14 @@ def scrape_store(store_name):
                     "price": price,
                 }
 
+                if quantity_count >= MIN_SALES:
+                    qualified_count += 1
+                    print(f"[INFO] Qualified items so far: {qualified_count}/{MAX_ITEMS}")
+                    if qualified_count >= MAX_ITEMS:
+                        print(f"[INFO] Reached {MAX_ITEMS} qualified items — stopping scrape.")
+                        stop_scraping = True
+                        break
+
                 time.sleep(DELAY_BETWEEN_ITEMS)
 
             page_number += 1
@@ -155,7 +166,7 @@ def scrape_store(store_name):
     return sales_count, item_details
 
 
-def print_results(sales_count, item_details):
+def print_results(sales_count, item_details, store_name):
     print("\n==== ALL ITEMS (Quantity Revisions Last 14 Days) ====")
     print(f"{'Item ID':<15} {'QtyChanges':<12} {'Price':<10} Title")
     print("-" * 100)
@@ -168,13 +179,26 @@ def print_results(sales_count, item_details):
     print(f"{'Item ID':<15} {'QtyChanges':<12} {'Price':<10} Title")
     print("-" * 100)
 
-    for item_id, count in sales_count.items():
-        if count >= MIN_SALES:
-            details = item_details.get(item_id, {})
-            print(f"{item_id:<15} {count:<12} {details.get('price',''):<10} {details.get('title','')}")
+    filtered = [
+        (item_id, count, item_details.get(item_id, {}))
+        for item_id, count in sales_count.items()
+        if count >= MIN_SALES
+    ]
+
+    for item_id, count, details in filtered:
+        print(f"{item_id:<15} {count:<12} {details.get('price',''):<10} {details.get('title','')}")
+
+    csv_filename = f"{store_name}_results.csv"
+    with open(csv_filename, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["itemID", "quantitysold", "price", "title"])
+        for item_id, count, details in filtered:
+            writer.writerow([item_id, count, details.get("price", ""), details.get("title", "")])
+
+    print(f"\n[INFO] Saved {len(filtered)} items to {csv_filename}")
 
 
 if __name__ == "__main__":
     store = input("Enter eBay store name: ").strip()
     sales_count, item_details = scrape_store(store)
-    print_results(sales_count, item_details)
+    print_results(sales_count, item_details, store)
